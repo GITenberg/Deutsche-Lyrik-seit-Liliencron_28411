@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2991
     wikipedia: http://de.wikipedia.org/wiki/Hans_Bethge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28411#Deutsche-Lyrik-seit-Liliencron
 gutenberg_bookshelf: DE Lyrik
 gutenberg_issued: '2009-03-25'
 gutenberg_type: Text
